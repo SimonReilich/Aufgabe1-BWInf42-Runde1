@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="selenium-java-4.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/selenium-server-4.12.1.jar!/" />
+      <root url="file://$USER_HOME$/OneDrive/Desktop/Selenium/selenium-java-4.12.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/OneDrive/Desktop/Selenium/selenium-java-4.12.1" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/Selenium/selenium-java-4.12.1" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/Selenium/selenium-java-4.12.1" recursive="false" type="SOURCES" />
+  </library>
+</component>

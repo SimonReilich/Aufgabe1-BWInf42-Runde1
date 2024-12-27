@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Aufgabe1BWInf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Aufgabe1BWInf_jar</output-path>
+    <root id="archive" name="Aufgabe1BWInf.jar">
+      <element id="module-output" name="Aufgabe1BWInf" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-server-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-os-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-api-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-http-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-java-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-json-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-manager-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-support-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-ie-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-os-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-api-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-edge-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v85-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-http-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-java-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-json-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-chrome-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v114-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v115-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v116-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-remote-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-safari-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-firefox-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-chromium-driver-4.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-manager-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-support-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-ie-driver-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-edge-driver-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v85-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-chrome-driver-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v114-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v115-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-devtools-v116-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-remote-driver-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-safari-driver-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-firefox-driver-4.12.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Desktop/Selenium/selenium-java-4.12.1/selenium-chromium-driver-4.12.1-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
